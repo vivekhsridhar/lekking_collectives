@@ -1,2 +1,4 @@
-*_DS_Store
+*.DS_Store
 *__pycache
+*.mp4
+*ipynb_checkpoints
